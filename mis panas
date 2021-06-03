@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<link
+  href="https://fonts.googleapis.com/css?family=Lobster"
+  rel="stylesheet"
+  type="text/css"
+/>
+<link rel="preconnect" href="https://fonts.gstatic.com" />
+<link
+  href="https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap"
+  rel="stylesheet"
+/>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  </head>
+  <body>
+    <style>
+      h1 {
+        font-family: "Abril Fatface";
+      }
+      p {
+        font-size: 30px;
+      }
+      .fixed-image {
+        width: 100px;
+        height: auto;
+      }
+    </style>
+
+    <h1>Hola mundo</h1>
+    <p>
+      Este es mi pana,
+      <a href="https://www.youtube.com/watch?v=LRMLWISC6RY">Eduardo</a>
+    </p>
+    <form action="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+      <a href="https://www.youtube.com/watch?v=H9aC5AGY9YU"
+        ><img class="fixed-image" src="https://i.redd.it/i5n858srqtq61.jpg"
+      /></a>
+      <input type="text" placeholder="Juan?" required />
+      <button type="submit">Juan</button>
+    </form>
+  </body>
+</html>
